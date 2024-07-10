@@ -9,6 +9,11 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
 
+Inicio de la Actividad Práctica I
+
+Alumno: Araceli Muñoz Sánchez
+
+
 ## Descripción del contenido
 
 Carpetas:
